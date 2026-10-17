@@ -218,7 +218,6 @@ vegetation-resilience-webgis/
 │       ├── period-comparison.png
 │       ├── climate-filter.png
 │       ├── pixel-query.png
-│       ├── globe.png
 │       └── vegetation-resilience-webgis-demo.mp4
 ├── public/
 │   └── data/
